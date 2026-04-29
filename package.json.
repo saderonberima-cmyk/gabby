@@ -1,0 +1,15 @@
+{
+  "name": "styled-by-gabby",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.284.0",
+    "framer-motion": "^10.16.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
+  }
+}
